@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aves de Jardín</string>
+    <string name="label_tel">Phone</string>
+    <string name="label_mail">E-mail</string>
+    <string name="boton_calificar">Rate</string>
+    <string name="boton_aceptar">Submit</string>
+    <string name="asunto_mail">Contact Aves de Jardín</string>
+    <string name="cuerpo_mail">Greetings.\n\n I would like to communicate with you in order
+        to know more details about the tourist guides of the municipality of Jardín.\n\n
+                Thanks for your attention.</string>
+    <string name="error_mail">E-mail sending has failed.</string>
+    <string name="confirmar_permiso">You need to enable phone permissions for this action.</string>
+    <string name="permiso_si">Phone permission granted.</string>
+    <string name="permiso_no">Phone permission denied.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aves de Jardín</string>
+    <string name="label_tel">Teléfono</string>
+    <string name="label_mail">Correo</string>
+    <string name="boton_calificar">Calificar</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="asunto_mail">Contacto Aves de Jardín</string>
+    <string name="cuerpo_mail">Saludos.\n\nMe gustaría comunicarme con usted con el fin de conocer
+                más detalles sobre las guías turísticas del municipio de Jardín.\n\n
+                Gracias por su atención.</string>
+    <string name="error_mail">Hay un error con la aplicación de mensajería.</string>
+    <string name="confirmar_permiso">Es necesario habilitar el uso del teléfono para esta acción.</string>
+    <string name="permiso_si">Permiso para usar el telefono concedido.</string>
+    <string name="permiso_no">Permiso para usar el telefono negado.</string>
+
+</resources>

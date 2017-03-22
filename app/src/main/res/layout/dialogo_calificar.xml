@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/oldlace"
+    android:id="@+id/layout_calificar">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:id="@+id/ll_calificacion"
+        tools:ignore="UselessParent">
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rb_calificar"
+            style="@style/BirdRatingBar"
+            android:numStars="5"
+            android:rating="3"
+            android:stepSize="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp" />
+
+        <Button
+            android:text="@string/boton_aceptar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/b_aceptar"
+            android:layout_gravity="center_horizontal"
+            style="@android:style/Widget.DeviceDefault.Button"
+            android:background="@color/greenyellow"
+            android:elevation="5dp" />
+
+    </LinearLayout>
+
+</FrameLayout>
